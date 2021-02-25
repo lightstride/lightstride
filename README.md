@@ -3,6 +3,7 @@
 Hey there, I am stride (lightstride on Github). I am a web developer looking to learn many new things and to expand my
 knowledge.
 
+<br>
 
 ### Languages  🚀
 I currently know these languages (intermediate):
@@ -31,7 +32,7 @@ I currenty have basic to intermidiate experince of the current libraries/framewo
  *MongoDB
  *PostgreSQL
 
- # Tools (Editors/IDEs)🔨:
+ ###Tools (Editors/IDEs)🔨:
 * IntelliJ Idea
 * Webstorm
 * Pycharm
