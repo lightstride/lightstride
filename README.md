@@ -33,10 +33,10 @@ I currenty have basic to intermidiate experince of the current libraries/framewo
  ### Database 📊
  While I haven't worked so much with databases I have some experience with:
  
- *MongoDB
- *PostgreSQL
+ * MongoDB
+ * PostgreSQL
 
- ###Tools (Editors/IDEs)🔨:
+ ### Tools (Editors/IDEs)🔨:
 * IntelliJ Idea
 * Webstorm
 * Pycharm
