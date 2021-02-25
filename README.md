@@ -16,7 +16,7 @@ I currently know these languages (intermediate):
 
 
 ### Libraries & Frameworks  📚
-I currenty have basic to intermidiate experince of the current libraries/frameworks:
+I currenty have basic to intermidiate experience of the current libraries/frameworks:
 
 
  * ReactJS
