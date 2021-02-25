@@ -48,7 +48,7 @@ I currenty have basic to intermidiate experince of the current libraries/framewo
  ### 2021 Goals
  
  * Learn Rust or Go
- * Use React to its fullest potentials
+ * Use React to its fullest potential
  * Build a large scale app
  
  
