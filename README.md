@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😀, I'm LightStride</h1>
-<h3 align="center">JavaScript Developer. | TypeScript Developer. | Melon Client Developer. | React Developer. | Vue Developer.</h3>
+<h3 align="center">JavaScript Developer. | TypeScript Developer. | Melon Client Developer. | React Developer. | Vue Developer. | Python Developer </h3>
 
 - 🔭 I’m currently working on **Melon Client.**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/the_lightstride" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="the_lightstride" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stride" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stride" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChswSncIBi8zueVv_YdTs-w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stride" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
