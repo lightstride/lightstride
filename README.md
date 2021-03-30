@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Nothing right now.**
 
-- 👨‍💻 All of my projects are not currently available on [github.com](github.com)
+- 👨‍💻 All of my projects will available on [github.com](github.com) soon.
 
 - 💬 Ask me about **Javascript.**
 
