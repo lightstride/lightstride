@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😀, I'm lightstride</h1>
 <h3 align="center">JavaScript Developer. | TypeScript Developer. | Melon Client Developer. | React Developer. | Vue Developer. | Python Developer </h3>
 
-- 🔭 I’m currently working on **Melon Client.**
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **Vue.JS**
 
